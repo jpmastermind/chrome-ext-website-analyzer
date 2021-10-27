@@ -17,8 +17,9 @@ You can use this extension on [**Chrome web store**](https://chrome.google.com/w
 
 Screenshots
 =======
-[![Chrome extension popup screenshot](/screenshots/screenshot_1.jpeg?raw=true)]
-[![Full page screenshot](/screenshots/screenshot_2.png?raw=true)]
+![Chrome extension popup screenshot](/screenshots/screenshot_1.jpeg?raw=true)
+
+![Full page screenshot](/screenshots/screenshot_2.png?raw=true)
 
 License
 =======
