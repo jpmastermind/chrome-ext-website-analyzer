@@ -1,7 +1,7 @@
 # Website Analyzer
 ## _Chrome Extension Website Analyzer_
 
-This easy-to-use extension will help you analyze any website for performance or SEO issues via a series of online tools specialized for that use, all for free.
+This easy-to-use extension will help you analyze any website for performance or SEO issues via a series of online tools specialized for that use.
 
 Available online tools are:
 - downforeveryoneorjustme.com
@@ -17,8 +17,9 @@ You can use this extension on [**Chrome web store**](https://chrome.google.com/w
 
 Screenshots
 =======
-[![Chrome extension popup screenshot](/screenshots/screenshot_1.jpeg?raw=true)]
-[![Full page screenshot](/screenshots/screenshot_2.png?raw=true)]
+![Chrome extension popup screenshot](/screenshots/screenshot_1.jpeg?raw=true)
+
+![Full page screenshot](/screenshots/screenshot_2.png?raw=true)
 
 License
 =======
